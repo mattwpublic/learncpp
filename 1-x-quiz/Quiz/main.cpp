@@ -4,6 +4,7 @@ int main()
 {
     int x{};
     int y{};
+
     std::cout << "Enter an integer: ";
     std::cin >> x;
 
