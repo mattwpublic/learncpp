@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1756776536 source:/home/matt/Documents/learncpp/2-8-multiple-files/MultipleFiles/input.cpp
+	<iostream>
+
+1756776686 source:/home/matt/Documents/learncpp/2-8-multiple-files/MultipleFiles/main.cpp
+	<iostream>
+
